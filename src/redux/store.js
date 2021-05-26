@@ -4,9 +4,9 @@
 // const store = createStore(subscribersReducer)
 
 // 2
-import { createStore } from 'redux'
-import rootReducer from './rootReducer'
-const store = createStore(rootReducer)
+// import { createStore } from 'redux'
+// import rootReducer from './rootReducer'
+// const store = createStore(rootReducer)
 
 // 3
 // import { createStore, applyMiddleware } from 'redux'
